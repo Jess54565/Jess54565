@@ -1,5 +1,4 @@
-# Hello World!
-## Welcome to my profile, my name is Jean Carlos
+# Hello World! <br> Welcome to my profile, my name is Jean Carlos
 
 ![Studio Ghibli](https://i.pinimg.com/originals/31/fa/01/31fa01bbb94c8df00335bba99fcf2cd8.gif)
 
