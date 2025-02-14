@@ -1,6 +1,7 @@
 ![Studio Ghibli](https://i.pinimg.com/originals/31/fa/01/31fa01bbb94c8df00335bba99fcf2cd8.gif)
 
-# 👋 Hello World! <br><br><br> About me <br> Olá! Eu sou um desenvolvedor apaixonado por tecnologia e programação. Estou sempre em busca de aprender novas linguagens e frameworks para aprimorar minhas habilidades e potenciais!
+# 👋 Hello World! 
+#### About me <br> Olá! Eu sou um desenvolvedor apaixonado por tecnologia e programação. Estou sempre em busca de aprender novas linguagens e frameworks para aprimorar minhas habilidades e potenciais!
 
 
 ## Tech Stack
